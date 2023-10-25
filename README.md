@@ -14,9 +14,9 @@ I'm <b>Mohammad hadi Niknam</b> from Tehran , IRAN 🇮🇷
 
 **👨‍💻 Git data**
 
-> 📜 1 Public Repositories 
+> 📜 3 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
 > ⌚ Use gitcheat.jpg in mhadinikam reposetory to code faster 💎
 
